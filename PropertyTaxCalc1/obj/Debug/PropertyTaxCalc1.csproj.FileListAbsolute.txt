@@ -1,0 +1,14 @@
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\bin\Debug\PropertyTaxCalc1.dll
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\bin\Debug\PropertyTaxCalc1.pdb
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\obj\Debug\PropertyTaxCalc1.csprojAssemblyReference.cache
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\obj\Debug\PropertyTaxCalc1.csproj.CoreCompileInputs.cache
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\obj\Debug\PropertyTaxCalc1.csproj.CopyComplete
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\obj\Debug\PropertyTaxCalc1.dll
+C:\Users\Tadeusz\source\repos\PropertyTaxCalc1\PropertyTaxCalc1\obj\Debug\PropertyTaxCalc1.pdb
